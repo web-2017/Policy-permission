@@ -1,3 +1,3 @@
-# politic-permission
+# Policy permissions
 
-### We do not store your data, we do not send any of your information anywhere
+### We do not store your data, and we don't share it anyware, we are not responsible for the information you provide
